@@ -1,2 +1,2 @@
 # gardiens_rating
- Prédiction des Ratings des Gardiens de But dans un Match de Football
+Ce projet a pour objectif de développer un système de prédiction des ratings des gardiens de but lors des matchs de football en utilisant une approche basée sur plusieurs modèles de machine learning et des techniques avancées de génération de données. L'objectif est de fournir des prévisions précises qui peuvent aider les entraîneurs, les analystes et les fans à évaluer la performance des gardiens en fonction de divers facteurs.
